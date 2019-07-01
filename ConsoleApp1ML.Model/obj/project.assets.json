@@ -3929,11 +3929,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gemva\\Desktop\\ConsoleApp1\\ConsoleApp1ML.Model\\ConsoleApp1ML.Model.csproj",
+      "projectUniqueName": "C:\\BeerPredict\\ConsoleApp1ML.Model\\ConsoleApp1ML.Model.csproj",
       "projectName": "ConsoleApp1ML.Model",
-      "projectPath": "C:\\Users\\gemva\\Desktop\\ConsoleApp1\\ConsoleApp1ML.Model\\ConsoleApp1ML.Model.csproj",
+      "projectPath": "C:\\BeerPredict\\ConsoleApp1ML.Model\\ConsoleApp1ML.Model.csproj",
       "packagesPath": "C:\\Users\\gemva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gemva\\Desktop\\ConsoleApp1\\ConsoleApp1ML.Model\\obj\\",
+      "outputPath": "C:\\BeerPredict\\ConsoleApp1ML.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

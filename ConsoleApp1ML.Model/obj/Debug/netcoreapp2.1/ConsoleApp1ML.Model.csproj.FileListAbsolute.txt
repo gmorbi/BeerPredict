@@ -8,3 +8,13 @@ C:\Users\gemva\Desktop\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\C
 C:\Users\gemva\Desktop\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.AssemblyInfo.cs
 C:\Users\gemva\Desktop\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.dll
 C:\Users\gemva\Desktop\ConsoleApp1\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.pdb
+C:\BeerPredict\ConsoleApp1ML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\BeerPredict\ConsoleApp1ML.Model\bin\Debug\netcoreapp2.1\ConsoleApp1ML.Model.deps.json
+C:\BeerPredict\ConsoleApp1ML.Model\bin\Debug\netcoreapp2.1\ConsoleApp1ML.Model.dll
+C:\BeerPredict\ConsoleApp1ML.Model\bin\Debug\netcoreapp2.1\ConsoleApp1ML.Model.pdb
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.csprojAssemblyReference.cache
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.csproj.CoreCompileInputs.cache
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.AssemblyInfoInputs.cache
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.AssemblyInfo.cs
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.dll
+C:\BeerPredict\ConsoleApp1ML.Model\obj\Debug\netcoreapp2.1\ConsoleApp1ML.Model.pdb

@@ -16,7 +16,7 @@ namespace ConsoleApp1ML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"C:\Users\gemva\Desktop\POS\Machine_Learning\Trabalho\recipeData.csv";
+        private static string TRAIN_DATA_FILEPATH = @"../../../../ConsoleApp1ML.ConsoleApp/recipeData.csv";
         private static string MODEL_FILEPATH = @"../../../../ConsoleApp1ML.Model/MLModel.zip";
 
         // Create MLContext to be shared across the model creation workflow objects 
