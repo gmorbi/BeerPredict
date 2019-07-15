@@ -1,0 +1,15 @@
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.deps.json
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.runtimeconfig.json
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.runtimeconfig.dev.json
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.dll
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.pdb
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.Model.dll
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp1ML.Model.pdb
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.csprojAssemblyReference.cache
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.AssemblyInfoInputs.cache
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.AssemblyInfo.cs
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.csproj.CopyComplete
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.dll
+C:\BeerPredict\ConsoleApp1ML.ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp1ML.ConsoleApp.pdb
